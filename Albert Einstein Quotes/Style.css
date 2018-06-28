@@ -1,0 +1,68 @@
+::selection {
+    background-color: #616163;
+    color: #fff;
+}
+body {
+  font-family: PT Sans;
+  text-decoration: none;
+  font-size: 1.2em;
+  margin: 0 auto;
+  max-width: 960px;
+  line-height: 1.65em;
+  background: #667db6;
+  background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+  background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+  color: #fff;
+  font-weight: 300;
+  padding: 20px;
+  padding-top:40px;
+}
+
+h1 {
+    text-align: right;
+    margin-right: 27%;
+    margin-bottom: 40px;
+    font-family: PT Sans;
+    color: 
+}
+
+.QuoteBox {
+    margin-left: 34%;
+    display: block;
+    width: 57%;
+    height: 200px;
+    font-size: 23px;
+    text-align: left;
+    background: #1f1c1759;
+    border-radius: 6px;
+    color: #fff;
+    font-family: PT Sans;
+    border: 0;
+    padding: 20px;
+}
+
+#button {
+    background: #0b7fba;
+    border: 0;
+    color: #fff;
+    font-size: 20px;
+    padding: 2% 3%;
+    cursor: pointer;
+    margin: 0 auto 60px;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-family: PT Sans;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 1px solid #ffffff40;
+    border-left: 1px solid #ffffff40;
+    border-right: 1px solid #ffffff40;
+}
+
+.WiseBox img {
+    width: 280px;
+    height: 390px;
+    border: 2px solid #ffffff40;
+    position: absolute;
+}
